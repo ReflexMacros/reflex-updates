@@ -1,7 +1,7 @@
 {
- "version": "1.8.2",
- "notes": "- Buy Reflex right on reflexmacros.com with a card — your key is shown and emailed instantly\n- Minor fixes",
+ "version": "1.8.3",
+ "notes": "- Switch a script back to Steps and simple scripts now convert instead of showing an empty list\n- Buy Reflex right on reflexmacros.com with a card — your key is shown and emailed instantly\n- Minor fixes",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.2.exe",
- "sha256": "d04d0866897c375d0c426931f1ccf1fa212f73ad632025e89a8ce7e81e0edd6e"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.3.exe",
+ "sha256": "ccfb7f66543f12d385111ca7273149fc71e404a6a0352b87aea2f777ed6300ad"
 }
