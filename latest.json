@@ -1,7 +1,7 @@
 {
- "version": "1.8.3",
- "notes": "- Switch a script back to Steps and simple scripts now convert instead of showing an empty list\n- Buy Reflex right on reflexmacros.com with a card — your key is shown and emailed instantly\n- Minor fixes",
+ "version": "1.8.4",
+ "notes": "- Removed the Minecraft: /reroll premade macro\n- Minor fixes and polish",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.3.exe",
- "sha256": "ccfb7f66543f12d385111ca7273149fc71e404a6a0352b87aea2f777ed6300ad"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.4.exe",
+ "sha256": "bd24c48153ed55c5deb2f86c0dea2912bf53e9561d446e6b1776bac3be8bf2f4"
 }
