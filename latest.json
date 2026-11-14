@@ -1,7 +1,7 @@
 {
- "version": "1.8.0",
- "notes": "- New Turn step: turn the game camera by degrees (left/right, up/down), with an aim preview, speed and a Test 360° calibration\n- Sign in with your Reflex account: activate Reflex without typing your key, or link your key to the dashboard at reflexmacros.com\n- New website: reflexmacros.com with your own dashboard (view your key, reset your PC, download)\n- Updated license agreement",
+ "version": "1.8.1",
+ "notes": "- Your saved license is now encrypted on your PC\n- Security hardening and a smaller download",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.0.exe",
- "sha256": "55aa955d6fd464cb2c406f3e7dc0ae45fbded2a27525b3fec8126345a16c5dd8"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.1.exe",
+ "sha256": "cc799f82db715962fd8a2fe0cc714323617b99dd3f7dcf4aca85c7ba81ea118b"
 }
