@@ -1,7 +1,7 @@
 {
- "version": "1.8.1",
- "notes": "- Your saved license is now encrypted on your PC\n- Security hardening and a smaller download",
+ "version": "1.8.2",
+ "notes": "- Buy Reflex right on reflexmacros.com with a card — your key is shown and emailed instantly\n- Minor fixes",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.1.exe",
- "sha256": "cc799f82db715962fd8a2fe0cc714323617b99dd3f7dcf4aca85c7ba81ea118b"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.2.exe",
+ "sha256": "d04d0866897c375d0c426931f1ccf1fa212f73ad632025e89a8ce7e81e0edd6e"
 }
