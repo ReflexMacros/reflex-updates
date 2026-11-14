@@ -1,7 +1,7 @@
 {
- "version": "1.7.0",
- "notes": "- One-click updates: new versions download in the background, then Relaunch Now or Install on Quit\n- License keys now bind to one PC (ask in the Discord for an HWID reset when you change PCs)\n- License key + EULA screen before first use",
- "url": "https://reflexmacros.github.io",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.7.0.exe",
- "sha256": "d1739bd04366754b037c48807e0635d402e337fbd132e9ac15387c0335c696a7"
+ "version": "1.8.0",
+ "notes": "- New Turn step: turn the game camera by degrees (left/right, up/down), with an aim preview, speed and a Test 360° calibration\n- Sign in with your Reflex account: activate Reflex without typing your key, or link your key to the dashboard at reflexmacros.com\n- New website: reflexmacros.com with your own dashboard (view your key, reset your PC, download)\n- Updated license agreement",
+ "url": "https://reflexmacros.com",
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.0.exe",
+ "sha256": "55aa955d6fd464cb2c406f3e7dc0ae45fbded2a27525b3fec8126345a16c5dd8"
 }
