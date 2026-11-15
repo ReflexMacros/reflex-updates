@@ -1,7 +1,7 @@
 {
- "version": "1.8.7",
- "notes": "- Turn steps now have a duration field (ms) right on the step for how long the turn takes\n- Minor fixes and polish",
+ "version": "1.8.8",
+ "notes": "- Fixed: once your PC is activated, Reflex no longer asks for your key again after you quit and reopen it\n- Your PC's activation is now locked in so it stays bound across restarts",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.7.exe",
- "sha256": "09e2438688e119bb99282921ea1f8f930fddb2043c430ac8199defa6cd4cc2cd"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.8.exe",
+ "sha256": "598c91976383419edeecc6373e1b9575ea060b1e02a7612b941639575b493b8f"
 }
