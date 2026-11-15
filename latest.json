@@ -1,7 +1,7 @@
 {
- "version": "1.8.6",
- "notes": "- Hide or show the macro list and settings panels with the top-bar chevrons\n- \"Learn more\" links in the settings open the matching docs\n- Macro titles are capped at 24 characters\n- New macros start as an empty script (switchable to Steps)",
+ "version": "1.8.7",
+ "notes": "- Turn steps now have a duration field (ms) right on the step for how long the turn takes\n- Minor fixes and polish",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.6.exe",
- "sha256": "a0be19278f1522de1fd4f7e1a54e6b83bc036f6252eb034040bf336a58c15ad3"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.7.exe",
+ "sha256": "09e2438688e119bb99282921ea1f8f930fddb2043c430ac8199defa6cd4cc2cd"
 }
