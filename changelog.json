@@ -1,0 +1,37 @@
+[
+  {
+    "version": "1.8.8",
+    "notes": [
+      "Fixed: once your PC is activated, Reflex no longer asks for your key again after you quit and reopen it",
+      "Your PC's activation is now locked in so it stays bound across restarts"
+    ]
+  },
+  {
+    "version": "1.8.7",
+    "notes": [
+      "Turn steps now have a duration field (ms) for how long the turn takes"
+    ]
+  },
+  {
+    "version": "1.8.6",
+    "notes": [
+      "Hide or show the macro list and settings panels with the top-bar chevrons",
+      "\"Learn more\" links in the settings open the matching docs section",
+      "Macro titles are capped at 24 characters",
+      "New macros start as an empty script, switchable to Steps"
+    ]
+  },
+  {
+    "version": "1.8.5",
+    "notes": [
+      "Toggle macros now have an in-app Active switch — start or stop them without a keybind"
+    ]
+  },
+  {
+    "version": "1.8.4",
+    "notes": [
+      "Removed the Minecraft: /reroll premade macro",
+      "Minor fixes and polish"
+    ]
+  }
+]
