@@ -1,5 +1,12 @@
 [
   {
+    "version": "1.8.9",
+    "date": "2026-11-14",
+    "notes": [
+      "Updated the End User License Agreement — you'll be asked to accept it once on your next launch"
+    ]
+  },
+  {
     "version": "1.8.8",
     "date": "2026-11-14",
     "notes": [

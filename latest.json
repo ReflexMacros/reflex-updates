@@ -1,7 +1,7 @@
 {
- "version": "1.8.8",
- "notes": "- Fixed: once your PC is activated, Reflex no longer asks for your key again after you quit and reopen it\n- Your PC's activation is now locked in so it stays bound across restarts",
+ "version": "1.8.9",
+ "notes": "- Updated the End User License Agreement (you'll be asked to accept it once on your next launch)",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.8.exe",
- "sha256": "598c91976383419edeecc6373e1b9575ea060b1e02a7612b941639575b493b8f"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.9.exe",
+ "sha256": "d27be7c7363840797eb06807c0c379e01499bd67d762b397daec98b5e92f405e"
 }
