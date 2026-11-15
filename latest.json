@@ -1,7 +1,7 @@
 {
- "version": "1.8.4",
- "notes": "- Removed the Minecraft: /reroll premade macro\n- Minor fixes and polish",
+ "version": "1.8.5",
+ "notes": "- Toggle macros now have an in-app Active switch — start/stop them without a keybind\n- Minor fixes and polish",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.4.exe",
- "sha256": "bd24c48153ed55c5deb2f86c0dea2912bf53e9561d446e6b1776bac3be8bf2f4"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.5.exe",
+ "sha256": "f884e2895941c934e5d3302688a4a73534cc2e311266690da229d08b9906d7fa"
 }
