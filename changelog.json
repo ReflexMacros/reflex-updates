@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.10.0",
+    "date": "2026-11-15",
+    "notes": [
+      "New Community Macros gallery: browse, download and share macros with other players",
+      "Share your own macros under a Community Username — your email is never shown",
+      "Search the gallery by name, sort by top downloaded or newest, and manage your uploads",
+      "Smaller, rounded tooltips and other polish"
+    ]
+  },
+  {
     "version": "1.9.1",
     "date": "2026-11-15",
     "notes": [

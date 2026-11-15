@@ -1,6 +1,6 @@
 {
- "version": "1.9.1",
- "notes": "- Tooltips are smaller and rounded so they fit their text",
+ "version": "1.10.0",
+ "notes": "- New Community Macros gallery: browse, download and share macros\n- Share your own macros under a Community Username (your email stays private)\n- Smaller, rounded tooltips and other polish",
  "url": "https://reflexmacros.com",
  "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex.exe",
  "sha256": "3560e4222e498e49be7158dcfe7320c9c1399bc9a1871be79974471bd0b2fb6e"
