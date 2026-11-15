@@ -1,7 +1,7 @@
 {
- "version": "1.8.9",
- "notes": "- Updated the End User License Agreement (you'll be asked to accept it once on your next launch)",
+ "version": "1.9.0",
+ "notes": "- New macros now open in Steps mode, the simpler way to build\n- Sign in with your Reflex account to activate without typing your key\n- Faster, more secure setup",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.9.exe",
- "sha256": "d27be7c7363840797eb06807c0c379e01499bd67d762b397daec98b5e92f405e"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.9.0.exe",
+ "sha256": "3560e4222e498e49be7158dcfe7320c9c1399bc9a1871be79974471bd0b2fb6e"
 }
