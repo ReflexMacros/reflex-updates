@@ -1,7 +1,7 @@
 {
- "version": "1.8.5",
- "notes": "- Toggle macros now have an in-app Active switch — start/stop them without a keybind\n- Minor fixes and polish",
+ "version": "1.8.6",
+ "notes": "- Hide or show the macro list and settings panels with the top-bar chevrons\n- \"Learn more\" links in the settings open the matching docs\n- Macro titles are capped at 24 characters\n- New macros start as an empty script (switchable to Steps)",
  "url": "https://reflexmacros.com",
- "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.5.exe",
- "sha256": "f884e2895941c934e5d3302688a4a73534cc2e311266690da229d08b9906d7fa"
+ "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex-1.8.6.exe",
+ "sha256": "a0be19278f1522de1fd4f7e1a54e6b83bc036f6252eb034040bf336a58c15ad3"
 }
