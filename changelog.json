@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.10.1",
+    "date": "2026-11-17",
+    "notes": [
+      "New: Humanize — make any step macro play a little differently every run (Light, Medium or Strong), on top of the per-step Random options",
+      "New: Export all macros in the ••• menu — back up every macro and folder to one file and load it on any PC with Import macros",
+      "New: optional crash reports — if Reflex ever closes unexpectedly, you can send us a report with one click (no macros, key or personal files)",
+      "Stronger license protection: Reflex now checks your license while it's open, and works offline for up to 3 days",
+      "Connect to Reflex account now hides once you're linked; moving to a new PC is done with the HWID reset in your dashboard",
+      "Updated EULA: all sales are final (no refunds) — you'll be asked to accept it once",
+      "Fixes and polish"
+    ]
+  },
+  {
     "title": "Monthly plan",
     "date": "2026-11-16",
     "link": "/#pricing",

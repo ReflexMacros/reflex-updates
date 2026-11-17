@@ -1,7 +1,7 @@
 {
- "version": "1.10.0",
- "notes": "- New Community Macros gallery: browse, download and share macros\n- Share your own macros under a Community Username (your email stays private)\n- Smaller, rounded tooltips and other polish",
+ "version": "1.10.1",
+ "notes": "- New: Humanize — make any step macro play a little differently every run (Light, Medium or Strong), on top of the per-step Random options\n- New: Export all macros in the ••• menu — back up every macro and folder to one file and load it on any PC with Import macros\n- New: optional crash reports — if Reflex ever closes unexpectedly, you can send us a report with one click (no macros, key or personal files)\n- Stronger license protection: Reflex now checks your license while it's open, and works offline for up to 3 days\n- Connect to Reflex account now hides once you're linked; moving to a new PC is done with the HWID reset in your dashboard\n- Updated EULA: all sales are final (no refunds) — you'll be asked to accept it once\n- Fixes and polish",
  "url": "https://reflexmacros.com",
  "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex.exe",
- "sha256": "3560e4222e498e49be7158dcfe7320c9c1399bc9a1871be79974471bd0b2fb6e"
+ "sha256": "f8305d518dbed05bb84bb189289426017f939967d942d7530805a6f1007bdaf7"
 }
