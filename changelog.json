@@ -1,5 +1,16 @@
 [
   {
+    "title": "Monthly plan",
+    "date": "2026-11-16",
+    "link": "/#pricing",
+    "notes": [
+      "New: Reflex Monthly — every feature for $2.99 a month, cancel anytime",
+      "Lifetime is still $9.99 once, with every future update included",
+      "Monthly subscribers can cancel, change their card or see invoices with Manage subscription in the dashboard",
+      "Already own Reflex? Nothing changes — your lifetime license stays yours"
+    ]
+  },
+  {
     "version": "1.10.0",
     "date": "2026-11-15",
     "notes": [
