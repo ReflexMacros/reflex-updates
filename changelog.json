@@ -1,5 +1,39 @@
 [
   {
+    "version": "1.11.0",
+    "date": "2026-11-18",
+    "new": [
+      "In-game HUD overlay: separate widgets you place anywhere over your game — running macros & keybinds, status, notifications, and the Reflex watermark",
+      "Notifications pop up when a macro turns on or off, is enabled or disabled, or fires",
+      "Move & Resize: drag widgets anywhere and resize them from the corners. Each widget has its own on/off switch and options",
+      "Pick which apps the overlay shows in, or show it everywhere. It never blocks your game's clicks or mouse",
+      "Smooth mouse glide for Move to and Move by, with an optional random glide time. Move by turns the camera in Minecraft and other games",
+      "Step notes: add a note to any step, like \"hotbar slot\". Notes are kept in share codes, Community Macros and script mode",
+      "Scripts: move() and move_by() take an optional glide time"
+    ],
+    "fixes": [
+      "Move by: positive Y now moves up",
+      "Removed the Turn step, which wasn't accurate. Use Move by with a glide instead",
+      "Stop all now shows \"turned off\" notifications for the macros it stops",
+      "The \"conflicting ID\" debug message no longer shows",
+      "Fixes and polish"
+    ],
+    "notes": [
+      "New: In-game HUD overlay: separate widgets you place anywhere over your game — running macros & keybinds, status, notifications, and the Reflex watermark",
+      "New: Notifications pop up when a macro turns on or off, is enabled or disabled, or fires",
+      "New: Move & Resize: drag widgets anywhere and resize them from the corners. Each widget has its own on/off switch and options",
+      "New: Pick which apps the overlay shows in, or show it everywhere. It never blocks your game's clicks or mouse",
+      "New: Smooth mouse glide for Move to and Move by, with an optional random glide time. Move by turns the camera in Minecraft and other games",
+      "New: Step notes: add a note to any step, like \"hotbar slot\". Notes are kept in share codes, Community Macros and script mode",
+      "New: Scripts: move() and move_by() take an optional glide time",
+      "Move by: positive Y now moves up",
+      "Removed the Turn step, which wasn't accurate. Use Move by with a glide instead",
+      "Stop all now shows \"turned off\" notifications for the macros it stops",
+      "The \"conflicting ID\" debug message no longer shows",
+      "Fixes and polish"
+    ]
+  },
+  {
     "version": "1.10.1",
     "date": "2026-11-17",
     "notes": [
