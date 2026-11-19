@@ -1,5 +1,25 @@
 [
   {
+    "version": "1.11.1",
+    "date": "2026-11-18",
+    "new": [
+      "Hide while macros run: an option in the HUD overlay settings that makes the overlay step aside while any macro is running"
+    ],
+    "fixes": [
+      "Macro timing is much more consistent: delays no longer run long, and the small hitches between steps are gone, even with Reflex minimised or behind a game",
+      "The HUD overlay is much lighter: it only redraws when something changes, so it no longer slows down your game or macros",
+      "Overlay widgets no longer have a green strip down the left side",
+      "Fixes and polish"
+    ],
+    "notes": [
+      "New: Hide while macros run: an option in the HUD overlay settings that makes the overlay step aside while any macro is running",
+      "Macro timing is much more consistent: delays no longer run long, and the small hitches between steps are gone, even with Reflex minimised or behind a game",
+      "The HUD overlay is much lighter: it only redraws when something changes, so it no longer slows down your game or macros",
+      "Overlay widgets no longer have a green strip down the left side",
+      "Fixes and polish"
+    ]
+  },
+  {
     "version": "1.11.0",
     "date": "2026-11-18",
     "new": [
