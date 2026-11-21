@@ -1,5 +1,40 @@
 [
   {
+    "version": "1.12.0",
+    "date": "2026-11-21",
+    "new": [
+      "Repeat blocks, a Run macro step and playback speed: build loops, call other macros, and speed runs up or down",
+      "Timer triggers: fire a macro on an interval or at a set time",
+      "Undo and redo while editing macros",
+      "App themes: Default, Midnight, OLED and Slate, with 8 accent colours",
+      "Cloud backup: save your macros to your account and restore them on any PC",
+      "A Home page: click the Reflex logo for your stats and quick actions",
+      "A Keyboard page: see your binds on a visual keyboard",
+      "Bigger in-game HUD: Keystrokes & CPS, Clock, PC stats, active remaps and macro progress, each with its own look and a show/hide hotkey",
+      "A first-time walkthrough tour",
+      "Upgrade from monthly to lifetime for $6.99 — your existing key simply becomes lifetime, with no more monthly bills"
+    ],
+    "fixes": [
+      "Mouse and keyboard input is more human: natural timing and a subtle mouse-glide wobble",
+      "CPS counts only the clicks that reach your game, so a one-click macro reads as one",
+      "Steps and Script stay in sync, and step notes are kept when you switch between them",
+      "Turning a macro off now stops it instantly if it's running",
+      "Repeat counts are exact, and deleting one repeat marker removes its pair",
+      "Security and stability hardening"
+    ],
+    "notes": [
+      "New: Repeat blocks, a Run macro step and playback speed: build loops, call other macros, and speed runs up or down",
+      "New: Timer triggers, undo/redo, app themes, cloud backup, a Home page, a Keyboard page, a bigger in-game HUD and a first-time walkthrough tour",
+      "New: Upgrade from monthly to lifetime for $6.99 — your existing key simply becomes lifetime",
+      "Mouse and keyboard input is more human: natural timing and a subtle mouse-glide wobble",
+      "CPS counts only the clicks that reach your game, so a one-click macro reads as one",
+      "Steps and Script stay in sync, and step notes are kept when you switch between them",
+      "Turning a macro off now stops it instantly if it's running",
+      "Repeat counts are exact, and deleting one repeat marker removes its pair",
+      "Security and stability hardening"
+    ]
+  },
+  {
     "version": "1.11.1",
     "date": "2026-11-18",
     "new": [

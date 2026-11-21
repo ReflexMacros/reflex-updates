@@ -1,7 +1,7 @@
 {
- "version": "1.11.1",
- "notes": "What's new in v1.11.1\n\nNew\n- Hide while macros run: an option in the HUD overlay settings that makes the overlay step aside while any macro is running\n\nFixes\n- Macro timing is much more consistent: delays no longer run long, and the small hitches between steps are gone, even with Reflex minimised or behind a game\n- The HUD overlay is much lighter: it only redraws when something changes, so it no longer slows down your game or macros\n- Overlay widgets no longer have a green strip down the left side\n- Fixes and polish",
+ "version": "1.12.0",
+ "notes": "What's new in v1.12.0\n\nNew\n- Repeat blocks, a Run macro step and playback speed: build loops, call other macros, and speed runs up or down\n- Timer triggers: fire a macro on an interval or at a set time\n- Undo and redo while editing macros\n- App themes: Default, Midnight, OLED and Slate, with 8 accent colours\n- Cloud backup: save your macros to your account and restore them on any PC\n- A Home page: click the Reflex logo for your stats and quick actions\n- A Keyboard page: see your binds on a visual keyboard\n- Bigger in-game HUD: Keystrokes & CPS, Clock, PC stats, active remaps and macro progress, each with its own look and a show/hide hotkey\n- A first-time walkthrough tour\n- Upgrade from monthly to lifetime for $6.99 — your existing key simply becomes lifetime, with no more monthly bills\n\nFixes\n- Mouse and keyboard input is more human: natural timing and a subtle mouse-glide wobble\n- CPS counts only the clicks that reach your game, so a one-click macro reads as one\n- Steps and Script stay in sync, and step notes are kept when you switch between them\n- Turning a macro off now stops it instantly if it's running\n- Repeat counts are exact, and deleting one repeat marker removes its pair\n- Security and stability hardening",
  "url": "https://reflexmacros.com",
  "download": "https://raw.githubusercontent.com/ReflexMacros/reflex-updates/main/releases/Reflex.exe",
- "sha256": "f8305d518dbed05bb84bb189289426017f939967d942d7530805a6f1007bdaf7"
+ "sha256": "cfb9adf1a7d75ac0e96e647573efc399dd27262f32e45f4c8e4d41e97fa69d0b"
 }
